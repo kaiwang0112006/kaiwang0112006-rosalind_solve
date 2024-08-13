@@ -44,4 +44,4 @@
 * [Introduction to Set Operations](https://kaiwang0112006.github.io/rosalind_solve/code/IntroductiontoSetOperations/IntroductiontoSetOperations)
 * [Sorting by Reversals](https://kaiwang0112006.github.io/rosalind_solve/code/SortingbyReversals/SortingbyReversals)
 * [Inferring Protein from Spectrum](https://kaiwang0112006.github.io/rosalind_solve/code/InferringProteinfromSpectrum/InferringProteinfromSpectrum)
-* [Introduction to Pattern Matching](https://kaiwang0112006.github.io/rosalind_solve/code/IntroductiontoSetOperations/IntroductiontoPatternMatching)
+* [Introduction to Pattern Matching](https://kaiwang0112006.github.io/rosalind_solve/code/IntroductiontoPatternMatching/IntroductiontoPatternMatching)
