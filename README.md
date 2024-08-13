@@ -46,4 +46,6 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Distances in Trees](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/DistancesinTrees/DistancesinTrees.md)
 * [Interleaving Two Motifs](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/InterleavingTwoMotifs/InterleavingTwoMotifs.md)
 * [Introduction to Set Operations](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IntroductiontoSetOperations/IntroductiontoSetOperations.md)
+* [Sorting by Reversals](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/SortingbyReversals/SortingbyReversals.md)
+* [Inferring Protein from Spectrum](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/InferringProteinfromSpectrum/InferringProteinfromSpectrum.md)
 * [Introduction to Pattern Matching](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IntroductiontoSetOperations/IntroductiontoPatternMatching.md)
